@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <annotations>
+    <annotation>
+      <name>Invoke</name>
+      <target>METHOD</target>
+      <purpose>Auto invoke methods</purpose>
+    </annotation>
+    <annotation>
+      <name>DefaultType</name>
+      <target>TYPE,FIELD</target>
+      <purpose>Set default type</purpose>
+    </annotation>
+    <annotation>
+      <name>ToString</name>
+      <target>TYPE,FIELD</target>
+      <purpose>Control toString</purpose>
+    </annotation>
+    <annotation>
+      <name>Validate</name>
+      <target>TYPE,ANNOTATION</target>
+      <purpose>Validate classes</purpose>
+    </annotation>
+    <annotation>
+      <name>Two</name>
+      <target>TYPE</target>
+      <purpose>Two properties</purpose>
+    </annotation>
+    <annotation>
+      <name>Cache</name>
+      <target>TYPE</target>
+      <purpose>Cache areas</purpose>
+    </annotation>
+  </annotations>
+  <status>completed</status>
+</project>
